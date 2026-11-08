@@ -1,0 +1,15 @@
+# Store text normalized to LF in the repo by default.
+* text=auto eol=lf
+
+# Windows scripts must check out with CRLF so they run cleanly from
+# Explorer / cmd. These specific rules MUST come after the catch-all above,
+# because the last matching rule wins in .gitattributes.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary-ish
+*.zip binary
+*.png binary
+*.jpg binary
+*.ico binary

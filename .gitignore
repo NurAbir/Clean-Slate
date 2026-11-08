@@ -1,0 +1,20 @@
+# Backups produced by CleanSlate
+CleanSlate-Backup-*.zip
+BrowserWipe-Backup-*.zip
+
+# Logs / scratch
+*.log
+*.tmp
+temp/
+scratch/
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
