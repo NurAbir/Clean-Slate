@@ -17,4 +17,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `-SkipBackup` opt-out.
 - Live detection of running browsers with an offer to close them.
 
-[1.0.0]: https://github.com/USERNAME/CleanSlate/releases/tag/v1.0.0
+[1.0.0]: https://github.com/NurAbir/Clean-Slate/releases/tag/v1.0.0
